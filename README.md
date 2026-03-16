@@ -34,5 +34,5 @@ Scanned clean:
 Feedback, bug reports and suggestions are welcome!  
 -<img src="Logo3.png" alt="Snakes Logo" width="24" height="24" style="vertical-align: middle; margin-right: 12px;">
 
-**Note:** Currently sideload-only (not yet in Chrome Web Store).  
+**Note:** Currently sideload-only (not yet in Chrome Web Store – I don't want to pay the $5 developer fee lol).  
 License: [MIT](LICENSE)
