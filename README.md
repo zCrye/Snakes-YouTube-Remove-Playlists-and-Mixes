@@ -35,7 +35,7 @@ Feedback, bug reports and suggestions are welcome!
 -<img src="Logo3.png" alt="Snakes Logo" width="24" height="24" style="vertical-align: middle; margin-right: 12px;">
 
 
-<img src="Dis.png" alt="Disabled" width="463" height="718" style="vertical-align: middle; margin-right: 12px;"> <img src="Ena.png" alt="Enabled" width="459" height="718" style="vertical-align: middle; margin-right: 12px;">
+<img src="Dis.png" alt="Disabled" width="463" height="718" style="vertical-align: middle; margin-right: 12px;"> <img src="Ena.png" alt="Enabled" width="459" height="799" style="vertical-align: middle; margin-right: 12px;">
 
 **Note:** Currently sideload-only (not yet in Chrome Web Store – I don't want to pay the $5 developer fee lol).  
 License: [MIT](LICENSE)
